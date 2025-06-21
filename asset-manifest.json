@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sh-portfolio/static/css/main.9c3b474c.css",
+    "main.js": "/sh-portfolio/static/js/main.779aeb7d.js",
+    "static/js/453.5d79306b.chunk.js": "/sh-portfolio/static/js/453.5d79306b.chunk.js",
+    "static/media/hotel.PNG": "/sh-portfolio/static/media/hotel.c68deae0a670eef33de9.PNG",
+    "static/media/girly.png": "/sh-portfolio/static/media/girly.55ec0677492815eaf198.png",
+    "static/media/movieApp.PNG": "/sh-portfolio/static/media/movieApp.fea7d6da05aa807d8881.PNG",
+    "static/media/arrows.PNG": "/sh-portfolio/static/media/arrows.68582a2ecc2e9a446e8a.PNG",
+    "static/media/foodApp.PNG": "/sh-portfolio/static/media/foodApp.c3bbd1a96108013861ad.PNG",
+    "static/media/ecommerce.PNG": "/sh-portfolio/static/media/ecommerce.c19a78802c3feb8efc23.PNG",
+    "static/media/quraanPlayer.PNG": "/sh-portfolio/static/media/quraanPlayer.733785f8f7f15baccf69.PNG",
+    "static/media/about.png": "/sh-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Sarah_Hesham_FrontEnd.pdf": "/sh-portfolio/static/media/Sarah_Hesham_FrontEnd.ac4cd309ff7f68cf654b.pdf",
+    "static/media/pms.PNG": "/sh-portfolio/static/media/pms.f4fb417fb6003015165d.PNG",
+    "static/media/home-bg.jpg": "/sh-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/crud.PNG": "/sh-portfolio/static/media/crud.a3b6d8c9c3cbba66deb6.PNG",
+    "static/media/pre.svg": "/sh-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/sh-portfolio/index.html",
+    "main.9c3b474c.css.map": "/sh-portfolio/static/css/main.9c3b474c.css.map",
+    "main.779aeb7d.js.map": "/sh-portfolio/static/js/main.779aeb7d.js.map",
+    "453.5d79306b.chunk.js.map": "/sh-portfolio/static/js/453.5d79306b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c3b474c.css",
+    "static/js/main.779aeb7d.js"
+  ]
+}
