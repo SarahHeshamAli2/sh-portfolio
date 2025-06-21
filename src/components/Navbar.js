@@ -35,7 +35,9 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-   
+    <Nav.Link as={Link} to={'/'}>
+      <span className="text-white">SH</span>
+    </Nav.Link>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {

@@ -6,15 +6,15 @@ import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Resume from "./components/Resume/ResumeNew";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Routes,
   Navigate
 } from "react-router-dom";
-import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import BackToTopButton from './components/BackToTop/BackToTop';
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -32,7 +32,7 @@ function App() {
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
-        <ScrollToTop />
+        <BackToTopButton />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/project" element={<Projects />} />
